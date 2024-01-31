@@ -1,0 +1,231 @@
+---
+title: "Treat-to-Target or High-Intensity Statin in Coronary Artery Disease"
+title-slide-attributes:
+    data-background-image: "LOADSTAR Background image.jpg"
+    data-background-size: contain
+    data-background-opacity: "0.3"
+subtitle: "Tailored approach for lipid lowering"
+author: "Christopher Shin"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: dark
+    footer: LOADSTAR
+    reference-location: document
+    scrollable: true
+editor: visual
+---
+
+## Glossary_1
+
+-   **Coronary artery** : 관상동맥; 심장에 혈액을 공급하는 동맥<br><br>
+-   **Coronary artery disease(CAD)** : 관상동맥질환; 관상동맥이 막히거나 수축하여 심장으로의 혈액 공급이 어려운 질환군. 대개 죽상동맥경화가 원인임.<br><br>
+-   **Atherosclerotic cardiovascular disease(ASCVD)** : 동맥경화성 심혈관질환; 죽상동맥경화로 인해 발생한 심혈관 질환군으로, 대개 이상지질혈증이 원인임. 관상동맥질환, 뇌혈관질환, 말초혈관질환, 대동맥류, 장허혈 등이 포함됨.<br><br>
+
+## Glossary_2
+
+-   **Statin** : 스타틴; 콜레스테롤 합성 효소를 억제하여 혈중 LDL-C 농도를 낮추는 약. <br><br>
+-   **Low-density lipoprotein cholesterol(LDL-C)** : 간에서 조직 말단, 혈관으로 운반되는 콜레스테롤.
+
+## Background_1
+
+-   ASCVD 환자군에서 statin 사용으로 인한 LDL-C 감소는 일차예방, 이차예방 효과가 있다. <br><br>
+-   게다가, 현재까지의 연구결과로는 LDL-C를 낮추면 낮출수록 ASCVD 위험이 계속 줄어들었다. <br><br>
+-   따라서 여러 기관에서 **초기 LDL-C를 50% 이상 감소시키는 것을 목표로 한 고강도 statin 사용을 권고**하였다.<br><br>
+-   그러나 statin에 대한 반응은 **개인차**가 있고, 지속적인 고강도 statin 치료는 **근육, 간, 콩팥**에 해롭다.<br><br>
+
+## Background_2
+
+-   이에 중간 강도 statin으로 시작하여, **특정 LDL-C 농도까지 약물 용량을 조절하는 대안**이 (treat-to-target) 제시되었지만,<br><br>
+-   아직 대안의 근거가 부족하고, **두 치료법을 직접 비교한 (head-to-head) 연구가 없는 실정이다.**<br><br>
+-   따라서 저자들은 **ASCVD 환자들의 이차 예방**의 측면에서, **treat-to-target strategy가 high-intensity strategy에 비하여 열등하지 않음**을 검증하기 위해 **LOADSTAR** trial을 시행하였다.
+
+# Method
+
+## Study design
+
+-   Investigator-initiated, Prospective, Multicenter, Randomized, Open-label, Noninferiority trial <br><br>
+-   한국의 12개 기관에서 시행
+
+## Patients
+
+-   **선정기준**: 임상적으로 CAD를 진단받은 19세 이상의 환자들 <br> (연구자들은 ASCVD 고위험군으로 CAD 환자군을 선정하였다) <br><br>
+-   **CAD**는 다음 질환들을 포함함; 안전형 협심증, 불안정 협심증, NSTEMI, STEMI <br><br>
+-   **제외기준**: Statin 병용 불가 약제 복용 중, 부작용 고위험군, 기대여명 3년 이하 등 <br><br>
+
+## Randomization and Procedures
+
+::: panel-tabset
+### Random
+
+-   Treat-to-target, high-intensity 군에 **1:1 랜덤 배정**함. <br><br>
+-   각 군은 다시 복용할 statin 종류(rosuvastatin, atorvastatin)에 따라 **1:1 랜덤 배정**함.
+-   LDL-C 초기 농도, 당뇨, 급성 관상동맥 증후군에 따라 층화함.
+
+### Statin intensity
+
+-   statin 강도는 2013 ACC/AHA 지침을 기준으로 함. <br><br>
+-   고강도: Rosuvastatin 20mg, Atorvastatin 40mg <br><br>
+-   중간 강도: Rosuvastatin 10mg, Atorvastatin 20mg <br><br>
+
+### Arm_1
+
+-   Treat-to-target 군의 치료 목표는 50mg/dL \< LDL-C \< 70mg/dL <br><br>
+-   statin 복용 경험이 없다면 중간 강도로 시작함.<br><br>
+-   statin을 복용 중이라면 치료 목표에 도달하도록 조절함(titration) <br><br>
+-   Ezetimibe 등 statin 외 지질강하제 복용은 권고하지 않음.
+
+### Arm_2
+
+-   High-intensity 군은 LDL-C 수치와 무관하게 고강도 statin 지속.
+:::
+
+## Primary Endpoint
+
+-   **Major Adverse Cardiac and Cerebrovascular Event(MACCE)**; 다음 4가지 요소들의 합으로 표현됨.<br><br>
+-   **Death** (사망) + **Myocardial infarction** (심근경색) + **Stroke** (뇌졸중) + **Revascularization** (재혈관화)
+
+## Secondary Endpoint
+
+-   **이상 사례**: 당뇨, 심부전, 혈전증, 신부전, 백내장 등<br><br>
+-   **검사 결과 이상**: 간, 근육, 콩팥 표지자
+
+## Follow up
+
+-   6주 + 3, 6, 12, 24, **36개월** <br><br>
+-   지질 상태, 부작용 관련 지표는 6주 + 12, 24, 36개월에 관찰함.
+
+## Sample Size
+
+-   각 군 3년 MACCE 누적 발생률을 12%로 가정함.
+-   Noninferiority margin 3.0%
+-   검정력 80%
+-   단측검정 1종 오류 확률 2.5%
+-   탈락율 15%
+-   **최종 4400명, 각 군 2200명**
+
+## Statistical analysis_1
+
+-   범주형 변수 -\> N(%); Chi-square test OR Fisher's exact test <br><br>
+-   연속변수 -\> Mean ± SD OR Median(IQR); T-test OR Mann-Whitney U test <br><br>
+-   Primary endpoint -\> Log rank test, Cox proportional-hazards regression <br><br>
+-   Noninferiority는 두 군 MACCE 누적발생률 차이의 단측 97.5% CI 상한 \< 3.0% 일 때 입증
+
+## Statistical analysis_2
+
+-   **Intention-to-treat (ITT)** (per-protocol 분석도 시행) <br><br>
+-   Multiple comparison 보정은 계획하지 않음. <br><br>
+-   Endpoint 결측치는 제거하고, 그 외는 분석 대상 아닐 때만 포함함.
+
+## Study design
+
+::: panel-tabset
+### Figure
+
+<img src="LOADSTAR Study design.png"/>
+:::
+
+# Results
+
+## Baseline characteristic
+
+-   2016/09/09 \~ 2019/11/27
+-   무작위화 당시 진단받거나 시술/수술받은 지 1년이 넘은 사람: 75% <br><br>
+-   고강도, 중간 강도 statin 치료를 받던 사람: 25%, 57%
+
+## Flow diagram, Baseline
+
+::: panel-tabset
+### Figure 1
+
+<img src="LOADSTAR Figure 1.png"/>
+
+### Table 1
+
+<img src="LOADSTAR Table 1.png"/>
+:::
+
+## Lipid lowering
+
+-   Treat-to-target 군은 1, 2, 3년 째 각각 **53%, 55%, 56%**가 고강도 statin 처방받음.<br><br>
+-   High-intensity 군은 1, 2, 3년 째 각각 **93%, 91%, 89%**가 고강도 statin 처방받음.<br><br>
+-   Ezetimibe은 Treat-to-target 군에서 강하게 권고하지 않았음에도, 더 많이 사용함.
+
+## Lipid lowering
+
+::: panel-tabset
+### Figure 2
+
+<img src="LOADSTAR Figure 2.png"/>
+:::
+
+## LDL-C level
+
+-   **6주: Treat-to-target 군의 LDL-C 수치가 유의미하게 더 높았음.**
+-   **전체 기간: 두 군의 LDL-C 수치에 유의미한 차이 없음.** (69.1mg/dL vs 68.4mg/dL; p=0.21)<br><br>
+-   목표 도달: Treat-to-target 군의 목표 도달율이 6주, 3개월에 유의미하게 낮았음.
+
+## Endpoint
+
+-   Primary: **Treat-to-target 군, High-intensity 군의 MACCE 누적발생률이 각각 8.1%, 8.7%**로 나타남.<br> -0.6%pp; 97.5% CI 상한 1.1pp, **p-value \< 0.001** <br><br>
+-   Secondary: 두 군간 유의미한 차이 없었다.
+-   그러나 사후 검정 결과 **당뇨 발생 + 간/근육/콩팥 독성**의 합은 **Treat-to-target 군에서 유의미하게 낮았다.** (6.1% vs 8.2%; p-value = 0.009)
+
+## LDL-C and Endpoints
+
+::: panel-tabset
+### Figure 3
+
+<img src="LOADSTAR Figure 3.png"/>
+
+### Table 2
+
+<img src="LOADSTAR Table 2.png"/>
+:::
+
+## Conclusion
+
+-   **LOADSTAR trial은 36개월의 관찰 결과, CAD 환자를 대상으로 MACCE 발생의 측면에서 treat-to-target strategy가 high-intensity strategy에 비해 열등하지 않음을 보였다.**
+
+## Discussion_1
+
+-   **낮은 LDL-C 목표 달성율은 (약 60%) statin 외 지질강하제 병용을 권고하지 않았기 때문**인 것으로 보인다. 본 연구의 시작 시점에는 병용 요법의 근거가 부족했으나, 현재는 흔하게 사용되는 추세다. <br><br>
+
+## Discussion_2
+
+-   Treat-to-target 군과 High-intensity 군의 **고강도 statin 사용**에는 큰 차이가 있었으나 (54% vs 92%) **치료 성적**은 차이가 없었다. <br><br>
+-   이는 treat-to-target strategy가 **개인 치료 반응 차이를 고려한 치료법**임을 의미한다. 즉, 저강도 statin 요법에도 반응을 보이는 환자에게는 부작용을 감수하며 고강도 statin 요법을 사용할 필요가 없다. <br><br>
+-   Secondary endpoint가 treat-to-target 군에서 낮게 나타난 경향은 **treat-to-target strategy가 고강도 statin 요법의 부작용으로부터 비교적 안전함**을 시사한다. <br><br>
+-   실제로 2013 ACC/AHA 지침에서 고정용량 용법을 권고한 후 부작용 때문에 고강도 statin 요법을 중단하는 경우가 많아졌다.
+
+## Discussion_3
+
+-   다만 treat-to-target strategy에서 유의할 점은 다음과 같다.<br><br>
+-   **LDL-C 목표치가 확실하지 않다.** 본 연구는 70mg/dL 이하를 기준으로 삼았지만, 최근 유럽에서는 55mg/dL 이하를 권고했다.<br><br>
+-   **LDL-C 목표치 도달이 어렵다.** 본 연구의 LDL-C 목표치 도달율은 treat-to-target 군에서 항상 낮았다. (2년 시점 제외)<br><br>
+-   **LDL-C 목표치 도달까지 오래 걸린다.** 이 때문에 target-to-treat 군의 statin 시작 강도 역시 초기 LDL-C 수치에 맞춰 조절하는 전략이 필요할 수 있다.
+
+## Limits_1
+
+-   의사가 statin 용법을 안 채로 치료를 시행했다 **(open-label)**.<br><br>
+-   **MACCE 누적발생률이 예상보다 낮아** (12% vs 8.1\~8.7%) 연구가 **underpowered** 됐을 가능성이 있다. <br><br>
+-   **MACCE 누적발생률이 낮아** 비교가 어려울 수 있다.
+
+## Limits_2
+
+-   CAD 환자만을 대상으로 했기 때문에, **다른 환자군**을 대상으로 한 추가 연구가 필요하다. <br><br>
+-   **LDL-C 목표치 도달율이 낮아** 치료의 적절성이 의심된다. (제한적인 병용 요법)<br><br>
+-   3년의 추적관찰은 짧았을 수도 있다.
+
+## Correspondence_1
+
+-   Dr. Kawada: ApoE 변이와 같은 **유전적 요소**가 **교란변수**로 작용했을 가능성이 있다. 유전적 요소가 statin에 대한 반응율과 CAD 발생에 모두 영향을 미치기 때문이다. <br><br>
+
+-   Authors: 유전적 요소가 중요함을 인정한다. 그러나 약물유전학적 생체표지자를 검사해야 한다는 합의나 지침은 없다.
+
+## Correspondence_2
+
+-   Dr. Kawada: 표본 내 **성별 차이**에 대한 언급이 없다. 남자가 3172명, 여자가 1228명 참여했고, 여자는 **이상지질혈증 위험이 높은 폐경 후 여성**이 대부분이었다. <br><br>
+
+-   Authors: 성별의 영향을 주의 깊게 다뤄야 함을 인정하고, 후속 연구가 필요하다. 그러나 본 연구를 성별로 층화해서 분석해도 결과에 차이는 없고, 본 연구는 선행 연구들보다 여성 비율이 높다.

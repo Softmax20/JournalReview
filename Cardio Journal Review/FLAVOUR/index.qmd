@@ -1,0 +1,225 @@
+---
+title: "FFR or IVUS to Guide PCI"
+title-slide-attributes:
+    data-background-image: "FLAVOUR Background image.png"
+    data-background-size: contain
+    data-background-opacity: "0.3"
+subtitle: "Choosing a Method for Guiding PCI"
+author: "Christopher Shin"
+format: 
+  revealjs:
+    slide-number: true
+    transition: slide
+    theme: dark
+    footer: FLAVOUR
+    reference-location: document
+    scrollable: true
+editor: visual
+---
+
+## Glossary_1
+
+-   **Coronary artery** : 관상동맥; 심장에 혈액을 공급하는 동맥<br><br>
+-   **(Atheromatous) Plaque** : (죽상)판; 관상동맥 내 내피세포의 손상, 지질 축적, 석회화 등 다양한 기전이 복합적으로 작용해 형성된 덩어리. Plaque이 쌓여 동맥이 굳는 질환을 죽상동맥경화라고 한다.<br><br>
+-   **Coronary artery disease(CAD)** : 관상동맥질환; 관상동맥이 막히거나 수축하여 심장으로의 혈액 공급이 어려운 상태로, 대개 죽상동맥경화가 원인임. Plaque의 양과 성상이 예후에 큰 영향을 미침.
+
+## Glossary_2
+
+-   **Revascularization** : 재혈관화; 혈류를 복원해주는 치료. 관상동맥의 경우, 시술과(PCI = Ballooning/Stenting) 수술(CABG) 모두 가능하다. <br><br>
+-   **Percutaneous Coronary Intervention(PCI)** : 경피적 관상동맥 중재술; 피부를 통해 도관을 삽입하여 막힌 관상동맥을 열어주는 시술. 일회성으로 풍선을 부풀려 확장하거나, 영구적으로 스텐트를 삽입한다. **본 연구에서는 스텐트 삽입만을 PCI로 간주했다.**
+
+## Glossary_3
+
+-   **Coronary Angiography(CAG)** : 관상동맥 조영술; 관상동맥에 조영제를 넣어 구조 및 형태를 관찰하는 검사.<br><br>
+-   **Fractional Flow Reserve(FFR)** : 분획 혈류 예비력; 혈관확장제 투여 후 관상동맥 병변 전후 압력의 비율로 혈류 감소량을 추정하는 생리적 기능 검사.<br><br>
+-   **Intrvascular Ultrasonography(IVUS)** : 혈관내 초음파; 투과력이 높은 초음파를 이용해 혈관벽, 주위 구조물을 관찰하는 영상 검사.
+
+## Background_1
+
+-   **CAG는 CAD를 평가하고 PCI를 보조하는 (Guide) 표준 검사다.** CAG 상 협착이 70% 이상이라면 PCI를 시행하고, 40% 이하라면 약물 치료를 시행한다.<br><br>
+-   반면 **협착이 40\~70%로 애매한 경우에는 (intermediate stenosis)** CAG상 협착의 중증도가 허혈 유발 가능성과 연관이 크지 않고, 따라서 PCI 시행 여부를 결정하기 어렵다. 또한 CAG로는 스텐트가 잘 설치되었는지 알 방법이 없다.
+
+## Background_2
+
+-   **FFR**은 **실제 허혈 유발 가능성**을 잘 예측하지만 스텐트 설치에는 큰 도움이 안 된다. 반면 **IVUS**는 **스텐트 설치**에는 유용하지만 실제 허혈 가능성이 높은지 평가할 때는 큰 도움이 안 된다. <br><br>
+-   FFR과 IVUS는 각각 CAG만 시행했을 때보다 치료 성적이 좋은 것으로 밝혀졌지만, **원리가 다른 두 검사를 직접 비교한 (head-to-head) 연구가 없는 실정이다.**
+
+## Background_3
+
+-   따라서 저자들은 **intermediate stenosis**를 가진 환자들에서 **FFR-guided PCI strategy가 IVUS-guided PCI strategy에 비하여 열등하지 않음**을 검증하기 위해 **FLAVOUR** trial을 시행하였다.<br><br> (본래 FFR의 우월성을 검증하려 했으나, 임상시험을 시작한 해에 IVUS의 성적이 좋다는 연구결과들이 출판되어 비열등성 검정으로 연구계획을 수정함. **FFR이 의료 자원을 덜 소비하므로 비열등성 검정 역시 유의미함**)
+
+# Method
+
+## Study design
+
+-   Investigator-initiated, Prospective, Randomized, Open-label, Multinational, Noninferiority trial <br><br>
+-   한국, 중국의 18개 기관에서 시행
+
+## Patients
+
+-   **선정기준**: **허혈성 심질환이 의심**되어 시행한 검사상 **Intermediate stenosis**가 관찰되어 FFR/IVUS를 이용한 추가 평가가 필요한 19세 이상의 low-risk 환자들 <br><br>
+-   **Low-risk**: 표적혈관 직경 \> 2.5mm, 표적혈관 위치 제한 <br><br>
+-   **제외기준**: 약물 과민성, 출혈 관련 (현재, 3개월 이내, 출혈성 소인) 부적절한 표적 (CABG, 과거 PCI), 기대여명 2년 이내 <br><br>
+
+## Intervention_1
+
+-   FFR, IVUS 군에 **1:1 랜덤 배정**하고, **당뇨 유무**에 따라 층화함.<br><br>
+-   당뇨 환자는 PCI로 설치한 스텐트가 다시 막힐 확률이 높아 스텐트 설치 시 FFR, IVUS 등 정밀한 평가가 중요하고, 때로는 수술을 우선하기도 한다
+
+## Intervention_2
+
+::: panel-tabset
+### FFR 군
+
+-   **FFR 군 PCI 시행 기준**: FFR ≤ 0.8 <br><br>
+-   **FFR 군 PCI 성공 기준**: PCI 후 FFR ≥ 0.88 OR 스텐트 양끝 FFR 차이 \< 0.05
+
+### IVUS 군
+
+-   **IVUS 군 PCI 시행 기준**: 혈관 단면적 최소값 (MLA) ≤ 3mm\^2 OR 3 \< MLA ≤ 4mm\^2 + Plaque 단면적 \> 70% <br><br>
+-   **IVUS 군 PCI 성공 기준**: 스텐트 양끝 plaque 단면적 ≤ 55% + 스텐트 단면적 최소값 (MSA) ≥ \[5.5mm\^2 OR 스텐트 끝 혈관 단면적\]
+:::
+
+## Primary End point
+
+-   **Patient-oriented composite outcome(POCO)**; 다음 3가지 요소들의 합으로 표현됨.<br><br> **Death** (사망) + **Myocardial infarction** (심근경색) + **Revascularization** (재혈관화) <br><br>
+
+## Secondary End point
+
+-   Primary end point의 구성요소들, 사용한 스텐트 수, 뇌졸중 유무, 환자 자가설문, CAG 기반 CAD 평가 도구 (SYNTAX score, QCA) 등
+
+## Follow up
+
+-   시술 후 1, 12, 24개월
+
+## Sample size
+
+-   각 군 2년 POCO 누적 발생률을 10%, 12%로 가정함.
+-   Noninferiority margin 2.5%
+-   검정력 90%
+-   단측검정 1종 오류 확률 5.0% (의료기기 검정에 한해 사용)
+-   **최종 4400명, 각 군 2200명**
+
+## Statistical analysis_1
+
+-   범주형 변수 -\> Chi-square test <br><br>
+-   연속변수 -\> T-test <br><br>
+-   Primary endpoint -\> Log rank test, Cox proportional-hazards regression <br><br>
+
+## Statistical analysis_2
+
+-   **Intention-to-treat (ITT)** (per-protocol 분석도 시행) <br><br>
+-   Multiple comparison 보정, Multiplicity 교정은 계획하지 않음. <br><br>
+-   Endpoint 결측치는 제거하고, 민감도 분석으로 결측치 영향을 확인함.
+
+## Study design
+
+::: panel-tabset
+### Figure S1
+
+<img src="FLAVOUR Study design.png"/>
+:::
+
+# Results
+
+## Baseline characteristic
+
+-   **모집 대상**: 1682명 (2016/07 \~ 2019/08) <br><br>
+-   **분석 대상**: FFR 군 838명, Angiography 군 844명 <br><br>
+-   평균 나이 65세, 당뇨 환자 554명 (32.9%)
+
+## Procedural characteristic
+
+-   두 군의 **병변 길이, 혈관 직경, 협착 직경에는 유의미한 차이가 없었다.**<br><br>
+-   환자별 분석, 혈관별 분석 모두에서 **IVUS 군의 PCI 시행빈도가 더 높았다.** (환자 수: 65.3% vs 44.4%; 혈관 수: 58.4% vs 33.2%) <br><br>
+-   사용한 스텐트의 수와 총 길이에는 유의미한 차이가 없었다.
+
+## Flow diagram, Baseline
+
+::: panel-tabset
+### Figure S2
+
+<img src="FLAVOUR Figure S2.png"/>
+
+### Table 1
+
+<img src="FLAVOUR Table 1.jpeg"/>
+
+### Table 2
+
+<img src="FLAVOUR Table 2.jpeg"/>
+:::
+
+## End points
+
+-   Primary: **FFR 군, IVUS 군의 POCO 누적발생률이 각각 8.1%, 8.5%**로 나타남.<br> -0.4%pp; 95% CI 상한 1.8pp, 97.5% CI 상한 2.2pp, **p-value: 0.01** <br><br>
+-   Secondary: 당뇨 유무, 분석법 차이 (ITT vs per-protocol) 모두 결과에 영향을 주지 않았다.<br><br>
+-   PCI 성공율: 두 군간 유의미한 차이 없었다. (50.1% vs 54.8%)
+
+## Endpoints and Cumulative incidence
+
+::: panel-tabset
+### Table 3
+
+<img src="FLAVOUR Table 3.jpeg"/>
+
+### Figure 1
+
+<img src="FLAVOUR Figure 1.jpeg"/>
+:::
+
+## Conclusion
+
+-   **FLAVOUR trial은 24개월의 관찰 결과, intermediate coronary stenosis 환자를 대상으로 PCI 시행 여부 결정 및 시행 시 치료 성적의 측면에서 FFR이 IVUS에 비해 열등하지 않음을 보였다.**<br><br>
+
+## Discussion_1
+
+-   두 군의 병변 차이가 없었음에도, **IVUS군에서 PCI를 더 많이 수행했다.** <br><br>
+-   그러나 치료 성적에 차이가 없었으므로, 이는 현재 **IVUS의 PCI 시행 기준이 엄격하지 않다**는 점을 시사한다. <br><br>
+-   또한 협착이 flow-limiting 하지 않을 경우, 즉 **실제 허혈로 이어질 가능성이 낮은 경우에는 스텐트를 설치하는 것이 오히려 해로울 수 있다.** 따라서 IVUS 사용에 유의해야 한다.
+
+## Discussion_2
+
+-   반면 FFR은 스텐트 설치에 큰 도움이 되지 않는다고 여겨졌으나, 본 연구에서는 IVUS에 열등하지 않은 치료 성적을 보였다. <br><br>
+-   이는 **FFR이 스텐트 설치에도 도움이 될 수 있음을 시사한다.** 그 외에도 적은 PCI 사용은 **적은 항혈소판제 사용**으로 이어지는 또 다른 이점이 있다. <br><br>
+
+## Discussion_3
+-   FFR과 IVUS는 각각 목적이 다르지만, 많은 기관이 한 기기만 구입하여 사용한다. <br><br>
+-   그러나 **FFR은 고위험군에서 치료를 덜 할 위험이 있고, IVUS에서 발견되는 심한 협착 및 고위험 plaque은 실제 예후와 연관이 없는 경우가 있다.** 따라서 두 검사법을 비교한 연구가 필요했다. <br><br>
+-   결론적으로, 본 연구결과는 **FFR과 IVUS 중 한 검사법만 사용하여도 괜찮음**을 시사한다.
+
+## Limits_1
+
+-   **저위험군 환자만 연구에 포함**하여 고위험군 환자에게 결과를 적용할 수 없다. <br><br>
+-   시술자는 intervention의 종류를 안 채로 시술을 시행했다 **(open-label)**.<br><br>
+-   임상시험이 **동양아시아 인종**에 대해서만 이뤄졌다.
+
+## Limits_2
+
+-   두 군의 **PCI 시행 기준이 서로 달랐고, plaque의 성상을 고려하지 않았다.**<br><br>
+-   **FFR과 IVUS외에도 생리적 기능평가, 혈관내 영상검사가 존재**하므로 다양한 검사법의 추가 비교가 필요하다. <br><br>
+-   본 연구는 **FFR과 IVUS를 모두 사용한 군**을 포함하지 않았으므로, 후속 연구가 필요하다.
+
+## Correspondence_1
+
+-   Dr. Elkaryoni: 본 연구의 **IVUS 군 PCI 시행 기준은 급성 관상동맥 증후군 (Acute coronary syndrome, ACS) 환자용**이지, 안정형 허혈성 심질환 (stable ischemic heart disease, SIHD) 환자용이 아니다. <br><br>
+
+-   Authors: 최근 연구들을 통해 SIHD에서 IVUS의 역할이 점점 커지고 있다.
+
+## Correspondence_2
+
+-   Dr. Shah: IVUS에서 PCI를 더 많이 시행했으니 항혈소판제 복용도 더 많았을 것이다. 항혈소판제 복용 시 출혈 위험이 컸을 텐데, 이에 대한 보고가 없다. **IVUS 군의 사망률이 더 높은데 (1.3% vs 2.3%), 출혈이 원인은 아니었는가?** <br><br>
+
+-   Authors: IVUS 군에서 출혈이 더 많이 일어난 것은 사실이다. 그러나 출혈 위험 때문에 PCI를 보류해서는 안 된다. 또한 출혈이 위험한 환자군은 원래 출혈성 소인이 있는 환자들이다. 
+
+## Correspondence_3
+
+-   Dr. Danzi and Piccolo: 본 연구의 연구대상자 30%가 ACS 환자인데, FFR은 안정적인 CAD 환자에게서 입증된 것이지 ACS에서 입증되지 않았다. ACS 환자에게서 높은 FFR을 근거로 PCI를 시행하지 않으면 예후가 안 좋다는 연구도 있는데, **ACS는 따로 분석했어야 하지 않을까?** <br><br>
+
+-   Authors: ACS로 따로 분석했는데 POCO의 큰 차이가 없었다 (10.0% vs 10.3%)
+
+## Correspondence_4
+
+-   Dr. Bittl: 본 연구는 사실 순환기내과 의사들이 태도를 드러낸다. 우리는 **PCI가 하고 싶으면 IVUS를 찍고, 하기 싫으면 FFR을 잰다.** 별개로, **인종**을 고려해야 하는가? <br><br>
+
+-   Authors: FFR의 PCI 시행 기준에 인종이 고려될 필요는 없지만, 인종이나 성별이 관상동맥의 해부학적 변이와 연관이 있으므로 IVUS 시행 시 주의를 기울여야 한다.   
